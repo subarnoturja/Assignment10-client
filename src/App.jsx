@@ -3,7 +3,7 @@ function App() {
 
   return (
     <>
-      <h1 className="text-2xl text-center font-bold">Vite + React</h1>
+      <h1 className="text-5xl text-center font-bold">Vite + React</h1>
       <div className="navbar bg-base-100">
         <div className="navbar-start">
           <div className="dropdown">
